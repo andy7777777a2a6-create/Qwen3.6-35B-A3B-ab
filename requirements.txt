@@ -1,0 +1,5 @@
+heretic-llm
+accelerate
+bitsandbytes
+huggingface_hub
+transformers
